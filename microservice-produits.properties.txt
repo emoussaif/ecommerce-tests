@@ -9,4 +9,4 @@ spring.datasource.sql-script-encoding=UTF-8
 
 
 #Configuration
-mes-configs.limitProduits = 5
+mes-configs.limitProduits = 4
